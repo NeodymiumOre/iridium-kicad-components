@@ -32,7 +32,7 @@
   (fp_line (start 3.65 3.65) (end -3.65 3.65) (layer "F.Fab") (width 0.2) (tstamp f23c8ca2-ef9c-41f6-b799-f301ab522544))
   (pad "1" smd rect (at 0 3.2 90) (size 1.6 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4be106c3-b876-4c17-9196-c6c39ccd8178))
   (pad "2" smd rect (at 0 -3.2 90) (size 1.6 2.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 5be2f673-f6e2-4088-80a7-96ae19598c5a))
-  (model "${IRIDIUM_3D_MODELS}/DE0704-220.stp"
+  (model "${IRIDIUM_3DMODEL_DIR}/DE0704-220.stp"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

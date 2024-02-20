@@ -43,7 +43,7 @@
   (pad "3" smd rect (at 2.5 -2.05) (size 1 1.2) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 3993b2c6-3690-42b1-955f-9b7aee062904))
   (pad "4" thru_hole circle (at -1.5 0.55) (size 1.381 1.381) (drill 0.85) (layers *.Cu *.Mask) (tstamp 31331852-db7e-4817-b1f4-989202fabd3c))
   (pad "5" thru_hole circle (at 1.5 0.55) (size 1.381 1.381) (drill 0.85) (layers *.Cu *.Mask) (tstamp 9560084e-1236-462c-b0fe-27778d8d67c4))
-  (model "${IRIDIUM_3D_MODELS}/AYZ0102AGRLC.stp"
+  (model "${IRIDIUM_3DMODEL_DIR}/AYZ0102AGRLC.stp"
     (offset (xyz 0 -0.5299999634 0.7499999887))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))

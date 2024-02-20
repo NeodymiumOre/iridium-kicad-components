@@ -31,7 +31,7 @@
   (pad "1" thru_hole rect (at -2.54 0) (size 2.2 2.2) (drill 1.55) (layers *.Cu *.Mask) (tstamp acf219e3-603a-40d0-b3c7-b7fc4a171fad))
   (pad "2" thru_hole circle (at 0 0) (size 2.2 2.2) (drill 1.55) (layers *.Cu *.Mask) (tstamp bef8f2fe-e1ff-4955-80c9-c488e58b0c04))
   (pad "3" thru_hole circle (at 2.54 0) (size 2.2 2.2) (drill 1.55) (layers *.Cu *.Mask) (tstamp 8770403c-bd56-429f-9146-7eccc30bdd86))
-  (model "${IRIDIUM_3D_MODELS}/TO220.step"
+  (model "${IRIDIUM_3DMODEL_DIR}/TO220.step"
     (offset (xyz -2.5 0 4))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

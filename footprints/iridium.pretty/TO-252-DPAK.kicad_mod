@@ -34,7 +34,7 @@
   (pad "1" smd rect (at -4.7 -2.285) (size 1.73 0.96) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 1a016be3-9472-43fe-8d6e-863c322f294b))
   (pad "2" smd rect (at -4.7 2.285) (size 1.73 0.96) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp cff11c52-f6f0-47bb-ba26-ce0eed88f9ac))
   (pad "3" smd rect (at 2.32 0) (size 6.49 5.63) (layers "F.Cu" "F.Mask") (tstamp 4eddbf23-f2e3-4861-89c4-d9f97b0dfd9a))
-  (model "${IRIDIUM_3D_MODELS}/TO252-DPAK.step"
+  (model "${IRIDIUM_3DMODEL_DIR}/TO252-DPAK.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

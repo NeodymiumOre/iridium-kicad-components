@@ -38,7 +38,7 @@
   (pad "12" smd rect (at 0.5 -0.91 90) (size 0.6 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp a3d9ace9-38ae-4ea8-81a5-d81025eb1c33))
   (pad "13" smd rect (at 0 -0.91 90) (size 0.6 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 4e9822dc-f145-45bd-a0a8-9094fa52e4fb))
   (pad "14" smd rect (at -0.5 -0.91 90) (size 0.6 0.35) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp 816dfd0e-1f49-4e42-baa7-17cfd35c001c))
-  (model "${IRIDIUM_3D_MODELS}/LSM6DSMTR.step"
+  (model "${IRIDIUM_3DMODEL_DIR}/LSM6DSMTR.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

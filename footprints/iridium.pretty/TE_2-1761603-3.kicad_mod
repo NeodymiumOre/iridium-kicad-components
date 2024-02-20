@@ -37,7 +37,7 @@
   (pad "8" thru_hole circle (at 7.62 -2.54) (size 1.24 1.24) (drill 0.89) (layers *.Cu *.Mask) (tstamp 2f418730-1e6e-410b-8617-6c5a5ea078cb))
   (pad "9" thru_hole circle (at 10.16 0) (size 1.24 1.24) (drill 0.89) (layers *.Cu *.Mask) (tstamp 804bb5c6-1fa1-4dfa-923d-4f2bf21328ff))
   (pad "10" thru_hole circle (at 10.16 -2.54) (size 1.24 1.24) (drill 0.89) (layers *.Cu *.Mask) (tstamp 6e93382a-8c3a-494c-9597-de71d72d7923))
-  (model "${IRIDIUM_3D_MODELS}/2-1761603-3.step"
+  (model "${IRIDIUM_3DMODEL_DIR}/2-1761603-3.step"
     (offset (xyz 5 1.5 9))
     (scale (xyz 1 1 1))
     (rotate (xyz 0 0 180))

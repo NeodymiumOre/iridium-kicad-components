@@ -27,7 +27,7 @@
   (fp_line (start -2.65 -1.45) (end 2.65 -1.45) (layer "F.Fab") (width 0.127) (tstamp d59d1aca-91dd-4633-b5b8-2ba0683ba0ed))
   (pad "1" smd roundrect (at -2.05 0) (size 2.21 1.53) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.11) (tstamp 058cfcfa-49df-4405-b4f9-7cad7fd02a62))
   (pad "2" smd roundrect (at 2.05 0) (size 2.21 1.53) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.11) (tstamp b51edc80-7bee-4911-b5c6-53ddffc93ecc))
-  (model "${IRIDIUM_3D_MODELS}/B220-13-F.step"
+  (model "${IRIDIUM_3DMODEL_DIR}/B220-13-F.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))

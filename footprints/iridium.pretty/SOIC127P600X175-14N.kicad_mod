@@ -92,7 +92,7 @@
   (pad "12" smd rect (at 2.5908 -1.27) (size 1.7018 0.5334) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f619bc10-2b61-4d19-a2f4-483745f486c8))
   (pad "13" smd rect (at 2.5908 -2.54) (size 1.7018 0.5334) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp d4009f21-c0b7-45be-8fe9-efe6606e5cce))
   (pad "14" smd rect (at 2.5908 -3.81) (size 1.7018 0.5334) (layers "F.Cu" "F.Paste" "F.Mask") (tstamp f1292187-5ef7-490c-8410-382f3d81b17f))
-  (model "${IRIDIUM_3D_MODELS}/74HC14D_653.step"
+  (model "${IRIDIUM_3DMODEL_DIR}/74HC14D_653.step"
     (offset (xyz 0 0 0))
     (scale (xyz 1 1 1))
     (rotate (xyz -90 0 0))
