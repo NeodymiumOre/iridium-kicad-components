@@ -9,7 +9,7 @@ set REPO "iridium-kicad-components"
 echo "Setup envvars for iridium component library"
 set -Ux XDG_DATA_HOME "/home/$USER/.local/share"
 set -Ux IRIDIUM_SYMBOL_DIR "$XDG_DATA_HOME/$REPO/symbols"
-set -Ux IRIDIUM_FOOTPRINT_DIR "$XDG_DATA_HOME/$REPO/footprints.pretty"
+set -Ux IRIDIUM_FOOTPRINT_DIR "$XDG_DATA_HOME/$REPO/footprints"
 set -Ux IRIDIUM_3DMODEL_DIR "$XDG_DATA_HOME/$REPO/3d-models"
 echo "Done"
 
